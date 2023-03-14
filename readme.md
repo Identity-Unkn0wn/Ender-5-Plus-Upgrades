@@ -5,28 +5,22 @@ This is just a collection of thing that I have done to my printer and wanted to 
 
 ## Table of Contents
 
- * Big Tree Tech(BTT) SKR 3EZ Board
- > * fdsg
- * Installation of Sprite Extruder
+ * [Big Tree Tech(BTT) SKR 3EZ Board](#installation-of-btt-skr-3ez) 
+ * [Installation of Sprite Extruder](#installation-of-sprite-extruder)
 
 
-### Installation of BTT SKR 3EZ
+# Installation of BTT SKR 3EZ
 
-fLKSDNFOSkdjfo;iasdjgoijasdg
-OSIDHJFO;SAIDHJJGFpoiswedhjfWE
-OUHDEWEF;OUASHDV;OJH
-paisdjfgpajsddfg
+* Printing adapter board
+* Installing
+* Wiring board
+* Firmware
 
-### Spam
+# Installation of Sprite Extruder
 
-adsflksjdehnfgo
-wsldefkna;wsodejkfn
-;ol;awedkjnfo;awk
-;ojwhedf;o
+* [Printing Sprite Extruder Parts](Printing%20Sprite%20Extruder%20Parts.md)
+* Installing sprite extruder
+* Wiring extruder
+* Firmware
 
-### Bannans eatie
-
-- tasljffdna
-- dsafasdfg
-* asdfeg
- **dafgjnansdfogkhj** 
+# EXTRAS
