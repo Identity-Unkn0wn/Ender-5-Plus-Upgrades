@@ -14,14 +14,14 @@ If you are a visual learner go [here](https://youtu.be/l7mxGVF-QGE?t=86) down be
 * Flip over case
 * Remove 6 screws holding the bottom to the top.
 
-# Step 3: Remove Stock board
+## Step 3: Remove Stock board
 Make sure you take out the MB and not the screen, not being a SA just through as I can be. My visual learners go [here](https://youtu.be/l7mxGVF-QGE?t=171)
 
 * There a 4 screws on the board that needs to be removed (save those screws they will be reused)
 * Remove the cables
 * Set the board aside (and take a moment of silence for its hard work)
 
-# Step 4: Installing the MB
+## Step 4: Installing the MB
 Almost done! 
 
 * Grab your handy dandy board adapter and you stock MB screws
@@ -33,11 +33,11 @@ Almost done!
 
 ## Installing your cables
 This will mostly be the same for everyone. Instead of typing it all out click [here.](https://youtu.be/r9fsRMXb5X0?t=550) He does a really good job of explaining it and why recreate the wheel?
-> **NOTE:** *One thing to point out I highly recommend if you're following along with this from my sprite extruder installation double check the ohms on both fan pins to make sure their polarity is correct before plugging it in. Remember don't take the readout as anything except if it's wired correctly you will get some numbers if not then zero.*
+ **NOTE:** *One thing to point out I highly recommend if you're following along with this from my sprite extruder installation double check the ohms on both fan pins to make sure their polarity is correct before plugging it in. Remember don't take the readout as anything except if it's wired correctly you will get some numbers if not then zero.*
 
 * If you want the ability to run Z tilz add your second Z cable to the 5th stepper driver port.(E1M)
 
-## **NOTE:** My extruder didn't work with the way it came. Yours probably won't either since the creality boards extruder pinout show their wire sequence different. Explination below.
+* ## **NOTE:** My extruder didn't work with the way it came. Yours probably won't either since the creality boards extruder pinout show their wire sequence different. Explination below.
 
 **EOM Pin Sequence on SKR**
 |Set 1 |    |Set 2|    |
