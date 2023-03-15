@@ -20,7 +20,7 @@ This is mostly self explanitory, but for the sake of flow I will add this sectio
 
 ## Step 4
 * Attach Extruder mount to X-Axis
->![Alt text](../Files/mounting%20to%20x-axis.png =75%x)
+>![Alt text](../Files/mounting%20to%20x-axis.png =75%)
  > * Purple - 
  > * Red - 
 
