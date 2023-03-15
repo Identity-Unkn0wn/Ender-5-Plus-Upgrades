@@ -58,4 +58,13 @@ This will mostly be the same for everyone. Instead of typing it all out click [h
 ![Alt text](../Files/Fluke%20multimeter.jpg)
 > Green: most multimeters continuity test logo should look like this.
 
+* Lastly for instillation is your USB Cable. 
+![Alt text](../Files/IMG_1117.jpg)
+
+    > **Purple:** I purchased this [left angle adapter](https://amzn.to/3FrYykr).
+    
+    > **RED:** As well as a much [longer cable](https://amzn.to/3YOFiVd) to be ran out the back
+
+> # Don't close up shop just yet. Need to flash the board before closing up. If you know how to set up klipper then you are good to go from here.
+
 > <sub>[Top](#installing-btt-skr-3ez)

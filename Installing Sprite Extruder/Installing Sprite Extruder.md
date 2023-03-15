@@ -1,6 +1,8 @@
 # Installing Sprite Extruder
 This is mostly self explanitory, but for the sake of flow I will add this section. For steps 1 and 2 I will not be going into to much detail as you can just reverse the steps you took while assembling your printer. [Manual](https://www.creality.com/pages/download-ender-5-plus) 
 
+> **NOTE:** MY SPRITE PRO KIT DID NOT COME WITH A CABLE FOR THE BL TOUCH. CHECK YOURS! [The one I purchased.](https://amzn.to/3ZOp1AR)
+
 > **Note:** I will not be taking pictures or an install guide on the mount itself, but if you're going that route its the same general steps.
 
 > **Note:**  If you have not printed all of the parts please click [here](Printing%20Sprite%20Extruder%20Parts.md).
