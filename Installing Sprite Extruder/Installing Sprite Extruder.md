@@ -8,7 +8,7 @@ This is mostly self explanitory, but for the sake of flow I will add this sectio
 ## Step 2
 * Remove original hotend. Save all wheel hardware and screws holding hotend to mounting plate. Follow this [video](https://www.youtube.com/watch?v=nbmqpncobn8) if you do not know how to do this.
 * Loosen belt tensioner on the left side of the X-axis. 
->![Belt tensioner](../Files/Belt%20tensioner.png) 
+>![Belt Tensioner](../Files/Belt%20tensioner.png)
 
 
 
