@@ -14,7 +14,7 @@ I have created two variations of the mounting system. The first one is more of a
         * Print thin walls : ☑️
         * infill: 0% (won't need any with 5 walls)
         
-> **Note:** Everything is really your prefrance, this is just what has worked for me. Outside of what I provided will be up to what you have your printer tuned for that printer and nozzle diameter.
+    > **Note:** Everything is really your prefrance, this is just what has worked for me. Outside of what I provided will be up to what you have your printer tuned for and nozzle diameter.
 
 
 ## Mount
@@ -33,7 +33,7 @@ I have created two variations of the mounting system. The first one is more of a
         * Infill Pattern: Gyroid (your descretion)
         * Supports: off (this depends on how much you trust your print settings/ tuning)
         
-> **Note:** Everything is really your prefrance, this is just what has worked for me. Outside of what I provided will be up to what you have your printer tuned for that printer and nozzle diameter. **REMINDER:** This [Mount](#mount)  will melt if the filament used doesn't have a high temp threshold.
+    > **Note:** Everything is really your prefrance, this is just what has worked for me. Outside of what I provided will be up to what you have your printer tuned for and nozzle diameter. **REMINDER:** This [Mount](#mount)  will melt if the filament used doesn't have a high temp threshold.
 
 # Extruder Cable Mount
 This next item is optional, if you have a better method you want to use go ahead, but the cable harness will drag on the Y-axis stepper motor and bars.
@@ -49,6 +49,8 @@ This next item is optional, if you have a better method you want to use go ahead
         * infill: 50% (your descretion)
         * Infill Pattern: Gyroid (your descretion)
         * Supports: off (this again depends on how much you trust your print settings)
+    > **Note:** Everything is really your prefrance, this is just what has worked for me. Outside of what I provided will be up to what you have your printer tuned for and nozzle diameter.
+        
     * Items you will need
         * Top cover needs needs:
             * x4 - M4x8 Screw [(Kit I use)](https://amzn.to/3FqGRln)
