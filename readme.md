@@ -19,7 +19,7 @@ This is just a collection of thing that I have done to my printer and wanted to 
 # Installation of Sprite Extruder
 
 * [Printing Sprite Extruder Parts](Installing%20Sprite%20Extruder/Printing%20Sprite%20Extruder%20Parts.md)
-* Installing sprite extruder
+* [Installing Sprite Extruder](Installing%20Sprite%20Extruder/Installing%20Sprite%20Extruder.md)
 * Wiring extruder
 * Firmware
 

@@ -38,7 +38,7 @@ I have created two variations of the mounting system. The first one is more of a
 # Extruder Cable Mount
 This next item is optional, if you have a better method you want to use go ahead, but the cable harness will drag on the Y-axis stepper motor and bars.
 
-* Get [Cable Mount](../Files/Extruder%20Cable%20Mount.3mf)
+* Get [Cable Mount](../Files/Extruder%20Cable%20Mount.stl)
     * Print Setting:
          * Nozzle size 0.4 mm
         * Layer and inital Layer height: 0.2 mm
@@ -51,10 +51,10 @@ This next item is optional, if you have a better method you want to use go ahead
         * Supports: off (this again depends on how much you trust your print settings)
     * Items you will need
         * Top cover needs needs:
-            * x4 - M4x8 Screw
-            * x4 - M4 Nut
+            * x4 - M4x8 Screw [(Kit I use)](https://amzn.to/3FqGRln)
+            * x4 - M4 Nut [(Kit I use)](https://amzn.to/3FqGRln)
         * Base will need:
-            * x2 - M3x8 screw
-            * x2 - M3 T-nut
+            * x2 - M3x8 screw [(Kit I use)](https://amzn.to/3FqGRln)
+            * x2 - M3 T-nut [(Kit I use)](https://amzn.to/3yGxaM2)
 
 *[Top](#printing-sprite-extruder-parts)*
