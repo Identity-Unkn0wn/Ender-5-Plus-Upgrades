@@ -48,7 +48,7 @@ This next item is optional, if you have a better method you want to use go ahead
         * Alternate Extra wall: ☑️
         * infill: 50% (your descretion)
         * Infill Pattern: Gyroid (your descretion)
-        * Supports: [off] (this again depends on how much you trust your print settings)
+        * Supports: off (this again depends on how much you trust your print settings)
     * Items you will need
         * Top cover needs needs:
             * x4 - M4x8 Screw [(Kit I use)](https://amzn.to/3FqGRln)
