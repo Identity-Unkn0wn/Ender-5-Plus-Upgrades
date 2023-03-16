@@ -15,6 +15,7 @@ What a trip we've had right, sit tight were almost done.
   * Select the `Settings Icon` on the bottom right
   * Scroll to `Enable SSH` and enable the box
   * Scroll down from there and set your SSH `User Name` & `Password`
+  > * WRITE THIS DOWN; YOU WILL NEED IT LATER!
   * *Optional:* Configure your wireless LAN 
   >  *  This part is optional if your intent is to use a wired connection, nothing is needed here.
   > * Don't forget to set your `Wireless LAN Country` (example if you're in good ole 'Murica scroll to select `US`)
@@ -40,4 +41,5 @@ Ok so there are other ways of doing it, like Putty, but I like using Windows pow
   * Open up your favorite terminal
   * Type in `ssh username@your IP address`
    > * You can find your IP address from your router or a program like WinSCP ([here](https://winscp.net/download/WinSCP-5.21.7-Setup.exe))
-  * It 
+   > * You set up your user name in the "[Prep an OS Image](#prep-an-os-image)" section.
+  * It may ask you som
