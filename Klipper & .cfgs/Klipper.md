@@ -29,12 +29,13 @@ What a trip we've had right, sit tight were almost done.
 Buckle up this one is going to be a long one.
 * if your Pi is powerd up, turn it off
 * Insert SD card into SD card slot on said Pi
+* Power the Pi up    
 * Wait a few minutes
 * Then it should be done
 * :P
   
 ## SSHing into your Raspbeery Pi
-Ok so there are other way of doing it, I've seen Putty, but I like using Windows powershell. Most of the steps should be the same either way. If this is your first time using a terminal I promise its not that scary. Well here we go!
+Ok so there are other ways of doing it, like Putty, but I like using Windows powershell. Most of the steps should be the same either way. If this is your first time using a terminal I promise its not that scary. Well here we go!
 * SSH into your Raspberry Pi from a terminal:
   * Open up your favorite terminal
   * Type in `ssh username@your IP address`

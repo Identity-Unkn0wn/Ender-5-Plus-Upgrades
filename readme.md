@@ -4,8 +4,6 @@ This is just a collection of thing that I have done to my printer and wanted to 
 
 
 ## Table of Contents
-- [Ender 5 Plus(E5+) Upgrades](#ender-5-pluse5-upgrades)
-  - [Table of Contents](#table-of-contents)
 - [Installation of Sprite Extruder](#installation-of-sprite-extruder)
 - [Installation of BTT SKR 3EZ](#installation-of-btt-skr-3ez)
 - [Klipper \& .CFGs](#klipper--cfgs)
