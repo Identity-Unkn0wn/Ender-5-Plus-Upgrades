@@ -1,6 +1,8 @@
 # Ender 5 Plus(E5+) Upgrades
 
-This is just a collection of thing that I have done to my printer and wanted to consolidate the recources for anyone who may want to do the same. 
+This is just a collection of thing that I have done to my printer and wanted to consolidate the resources for anyone who may want to do the same. 
+
+**WARNING:** This is still a work in progress.
 
 
 ## Table of Contents
