@@ -41,7 +41,7 @@ Ok so there are other ways of doing it, like Putty, but I like using Windows pow
 * SSH into your Raspberry Pi from a terminal:
   * Open up your favorite terminal
   * Type in `ssh username@your IP address`
-   > * You can find your IP address from your router or a program like WinSCP ([here](https://winscp.net/download/WinSCP-5.21.7-Setup.exe))
+   > * You can find your IP address from your router or a program like  [Advanced IP Scanner](https://www.advanced-ip-scanner.com/download/)
    > * You set up your user name in the "[Prep an OS Image](#prep-an-os-image)" section.
    > * If you ste up a hostname it will be *"username@whateveryouput.local"*
      * It will then give you a *"warning"* about its authenticity, and if you want to continue type `yes` and press enter
@@ -77,10 +77,10 @@ This method is not for everyone, but I can definitely say beginners will probabl
  * From here it will take you back to the instillation UI screen
  * Now we will install moonraker, Type `2` and press enter
  * it should detect how many instances of klipper you installed and display it, if not type that number in and press enter.
- > * If you have more than one instance, it will ask you to confirm the amount you want to install. Hit enter as Yes is the default.
+ > * *NOTE:* If you have more than one instance, it will ask you to confirm the amount you want to install. Hit enter as Yes is the default.
  * This should be quick, but if not, be patient and let it install.
  * Once this is complete It will take you back to the instillation UI again.
- > * If you have more than one, all of your instances will appear with their IP address.
+ > * *NOTE:* If you have more than one, all of your instances will appear with their IP address.
 
 > Example:
 
@@ -88,8 +88,8 @@ This method is not for everyone, but I can definitely say beginners will probabl
 
 |Instance Number|IP Address          |
 |:-------------:|:------------------:|
-| Instance 1:   |192.168.111.345:7125|
-| Instance 2:   |192.168.111.345:7126|
+| Instance 1:   |192.168.696.969:7125|
+| Instance 2:   |192.168.696.969:7126|
 </div>
 
 > From here the instance number will continue to rise for the amount of instances you installed and only the digits after the ":" will rise by one number.
@@ -97,6 +97,13 @@ This method is not for everyone, but I can definitely say beginners will probabl
 > * *NOTE:* It will immediately begin installing
 > * *NOTE:* You don't have to choose Mainsail, but that is what I will be continuing on with.
 > * *NOTE:* You only need one instance of Mainsail to control all of your printers
-* It will pause mid install sad ask if you want to install recommended macros, press enter.
+* It will pause mid install and ask if you want to install recommended macros, press enter.
 * Wait for it to complete and will boot you back to the install UI
-* 
+* Install complete!
+* Type ` b` and press enter to go back to the main menu
+* Type ` q ` and press enter to quit out of KIAUH
+
+> * *Note:* Feel free to install crowsnest before exiting out, but I will not be covering that.
+
+
+<sub> [Top](#installing-klipper)

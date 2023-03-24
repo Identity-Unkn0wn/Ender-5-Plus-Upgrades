@@ -22,6 +22,7 @@ This is just a collection of thing that I have done to my printer and wanted to 
 
 # Klipper & .CFGs
 * [Klipper Install](Klipper%20&%20.cfgs/Klipper.md)
-* .CFGs
+* [Flashing Printer MCU](Klipper%20&%20.cfgs/Flashing%20Printer%20MCU.md)
+* [Mainsail](Klipper%20&%20.cfgs/Mainsail.md)
 
 # EXTRAS
