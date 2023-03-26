@@ -1,5 +1,5 @@
 # Configuring Mainsail
-This part is strictly how I did mine and you are more than welcome to modify set up to your liking.
+This part is strictly how I did mine and you are more than welcome to modify and set up to your liking.
 
 # Printer.cfg
 * Select `MACHINE` in menu on the left side

@@ -2,11 +2,12 @@
 What a trip we've had right, sit tight were almost done.
 
 ## Prep an OS image
+My visual learners go [here](https://youtu.be/u8bbp79haN4), but please follow along here as it is missing some detail you will want to add.
 * Download OS
   * Insert Micro SD card into computer
   * Download *[Raspberry Pi Imager](https://downloads.raspberrypi.org/imager/imager_latest.exe)*
   * Once installed select `Choose OS`
-   > * **NOTE:** If it gives an error about downloading an OS directory, exit and open it back up, seems to be a common issue(maybe for just me?).
+   > * **NOTE:** *If it gives an error about downloading an OS directory, exit and open it back up, seems to be a common issue(maybe for just me?).*
   * Scroll to `Raspberry Pi OS (Other)` and select
   * Scroll to `Raspberry PI on Lite (64 bit)` and select
     > * You will see a settings icon appear, we will get to that shortly
@@ -54,7 +55,7 @@ Ok so there are other ways of doing it, like Putty, but I like using Windows pow
   * Give it a minute or two then SSH back into your Raspberry Pi.
 
 ## Installing Klipper/ User Interface (UI)
-For this portion I'll be using Mainsail as my UI You don't have to use this program, but I've tried Fluidd and Octoprint and while on Marlin I did like Octoprint, Mainsail just jives better for me with Klipper. 
+For this portion I'll be using Mainsail as my UI You don't have to use this program, but I've tried Fluidd and Octoprint and while on Marlin I did like Octoprint, Mainsail just jives better for me with Klipper. My visual learners go [here](https://youtu.be/Ib1Dd3rIE2I?t=517), please keep this open for the extra detail.
 
 This method is not for everyone, but I can definitely say beginners will probably like this route better than figuring out through the klipper website. Additionally, on the KIAUH website it says the `Raspberry Pi OS Lite (32bit)` is compatible, but I've been using the 64 bit version for a few months and its been working without issue.
 
@@ -77,10 +78,10 @@ This method is not for everyone, but I can definitely say beginners will probabl
  * From here it will take you back to the instillation UI screen
  * Now we will install moonraker, Type `2` and press enter
  * it should detect how many instances of klipper you installed and display it, if not type that number in and press enter.
- > * *NOTE:* If you have more than one instance, it will ask you to confirm the amount you want to install. Hit enter as Yes is the default.
+ > * **NOTE:** *If you have more than one instance, it will ask you to confirm the amount you want to install. Hit enter as Yes is the default.*
  * This should be quick, but if not, be patient and let it install.
  * Once this is complete It will take you back to the instillation UI again.
- > * *NOTE:* If you have more than one, all of your instances will appear with their IP address.
+ > * **NOTE:** *If you have more than one, all of your instances will appear with their IP address.*
 
 > Example:
 
@@ -94,16 +95,16 @@ This method is not for everyone, but I can definitely say beginners will probabl
 
 > From here the instance number will continue to rise for the amount of instances you installed and only the digits after the ":" will rise by one number.
 * Okay, moving on. Next up, you will want to type `3` to begin installing Mainsail.
-> * *NOTE:* It will immediately begin installing
-> * *NOTE:* You don't have to choose Mainsail, but that is what I will be continuing on with.
-> * *NOTE:* You only need one instance of Mainsail to control all of your printers
+> * **NOTE:** *It will immediately begin installing*
+> * **NOTE:** *You don't have to choose Mainsail, but that is what I will be continuing on with.*
+> * **NOTE:** *You only need one instance of Mainsail to control all of your printers*
 * It will pause mid install and ask if you want to install recommended macros, press enter.
 * Wait for it to complete and will boot you back to the install UI
 * Install complete!
 * Type ` b` and press enter to go back to the main menu
 * Type ` q ` and press enter to quit out of KIAUH
 
-> * *Note:* Feel free to install crowsnest before exiting out, but I will not be covering that(unless enough request are submitted).
+> * **Note:** *Feel free to install crowsnest before exiting out, but I will not be covering that(unless enough request are submitted).*
 
 
 <sub> [Flashing Printer MCU](Flashing%20Printer%20MCU.md)
