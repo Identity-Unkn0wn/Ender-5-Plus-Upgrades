@@ -67,4 +67,8 @@ This will mostly be the same for everyone. Instead of typing it all out click [h
 
 > # Don't close up shop just yet. Need to flash the board before closing up. If you know how to set up klipper then you are good to go from here.
 
-> <sub>[Top](#installing-btt-skr-3ez)
+<sub>[Klipper](../Klipper%20&%20.cfgs/Klipper.md)
+
+<sub>[Home](../readme.md)
+
+<sub>[Top](#installing-btt-skr-3ez)

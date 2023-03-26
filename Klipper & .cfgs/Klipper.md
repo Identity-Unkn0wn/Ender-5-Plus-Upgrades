@@ -103,7 +103,11 @@ This method is not for everyone, but I can definitely say beginners will probabl
 * Type ` b` and press enter to go back to the main menu
 * Type ` q ` and press enter to quit out of KIAUH
 
-> * *Note:* Feel free to install crowsnest before exiting out, but I will not be covering that.
+> * *Note:* Feel free to install crowsnest before exiting out, but I will not be covering that(unless enough request are submitted).
 
+
+<sub> [Flashing Printer MCU](Flashing%20Printer%20MCU.md)
+
+<sub> [Home](../readme.md)
 
 <sub> [Top](#installing-klipper)

@@ -21,4 +21,8 @@ Firstly, this isn't the only way to do it, just the way I chose to do it. Why? w
 Really not much to say here other than now that you have crimped all the cables with the new connections they should all go into place. 
 > **Note:** Remember to note which fan you plug into with fan plug. They are labled Fan and k-fan on the extruder side. I have k-fan connected to the yellow and blue(parts) fan pair and this was the correct.
 
+<sub>[Printing MB Adapter Plate](../Installing%20BTT%20SKR%203EZ/Printing%20MB%20Adapter%20Plate.md)
+
+<sub>[Home](../readme.md)
+
 <sub>[Top](#wiring-sprite-extruder)

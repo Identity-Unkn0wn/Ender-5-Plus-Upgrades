@@ -59,4 +59,9 @@ This next item is optional, if you have a better method you want to use go ahead
             * x2 - M3x8 screw [(Kit I use)](https://amzn.to/3FqGRln)
             * x2 - M3 T-nut [(Kit I use)](https://amzn.to/3yGxaM2)
 
+
+<sub>[Installing Sprite Extruder](Installing%20Sprite%20Extruder.md)
+
+<sub>[Main](../readme.md)
+
 <sub>[Top](#printing-sprite-extruder-parts)</sub>

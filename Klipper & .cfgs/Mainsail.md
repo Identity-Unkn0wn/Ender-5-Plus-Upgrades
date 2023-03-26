@@ -296,3 +296,13 @@ pause_on_runout: True
 #insert_gcode: RESUME
 switch_pin: PC2
 ```
+
+## Cusomization
+
+From here everything else would be your prefrence. I'll soon add a guide on how I tune my printer. I'll add links for anything I think would be useful in the [Extra](../Extra/Extra.md) section.
+
+<sub>[Extra](../Extra/Extra.md)
+
+<sub>[Main](../readme.md)
+
+<sub> [Top](#configuring-mainsail)

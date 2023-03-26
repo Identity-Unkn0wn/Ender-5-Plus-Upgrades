@@ -18,4 +18,8 @@ As with everything on here this is what worked for me and I designed the board f
         
 > **Note:** Everything is really your prefrance, this is just what worked for me. Outside of what I provided will be up to what you have your printer tuned for and nozzle diameter.
 
+<sub>[Installing BTT SKR 3EZ](Installing%20BTT%20SKR%203EZ.md)
+
+<sub>[Home](../readme.md)
+
 <sub>[Top](#printing-the-motherboard-adapter-plate)

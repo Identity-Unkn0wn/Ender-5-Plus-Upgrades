@@ -47,4 +47,9 @@ This part might be better off in another section, but since were not in the UI j
 > *NOTE:* It should display something like this `/dev/serial/by-id/usb-Klipper_stm32h743xx_400029000B51303138393138-if00`
 * Copy your serial address to somewhere you can get to later on.
 
+
+<sub> [Mainsail](Mainsail.md)
+
+<sub>[Home](../readme.md)
+
 <sub>[Top](#flashing-printer-mcu)

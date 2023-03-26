@@ -39,7 +39,9 @@ This is mostly self explanitory, but for the sake of flow I will add this sectio
 > ![Alt text](../Files/IMG_1110.jpg)
     >  * Then attach the 4 bolts that came with the kit. 
 
+<sub>[Wiring Extruder](Wiring%20Extruder.md)
 
+<sub>[Main](../readme.md)
 
 <sub>[Top](#installing-sprite-extruder)
 
