@@ -21,7 +21,7 @@ This is just a collection of thing that I have done to my printer and wanted to 
 * [Installation & Wiring](Installing%20BTT%20SKR%203EZ/Installing%20BTT%20SKR%203EZ.md)
 
 # Klipper & .CFGs
-* [Klipper Install](https://github.com/Identity-Unkn0wn/Ender-5-Plus-Upgrades)
+* [Klipper Install](#klipper-mainsail.md)
 * [Flashing Printer MCU](Klipper%20&%20.cfgs/Flashing%20Printer%20MCU.md)
 * [Mainsail](Klipper%20&%20.cfgs/Mainsail.md)
 
