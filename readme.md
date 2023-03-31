@@ -26,3 +26,4 @@ This is just a collection of thing that I have done to my printer and wanted to 
 * [Mainsail](Klipper%20&%20.cfgs/Mainsail.md)
 
 # EXTRAS
+*[BL Touch (& sim)](Extra
